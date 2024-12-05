@@ -1,0 +1,10 @@
+.filter-form {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  padding: 16px 0;
+
+  mat-form-field {
+    width: 100%;
+  }
+} 
